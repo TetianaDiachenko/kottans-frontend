@@ -11,12 +11,17 @@ I studied the materials of the course [Introduction to Git and GitHub](https://w
 
 
 <details>
-<summary>Screenshorts of Introduction to Git and GitHub</summary>
-![1 week](/task_git_collaboration/coursera_git1.png)
-![2 week](/task_git_collaboration/coursera_git2.png)
-![2 week](/task_git_collaboration/coursera_git2.1.png)
-![3 week](/task_git_collaboration/coursera_git3.png)
-![4 week](/task_git_collaboration/coursera_git3.png)
+<summary>Screenshots of Introduction to Git and GitHub</summary>
+
+[<img src="/task_git_collaboration/coursera_git1.png" width="60%" alt="1 week"/>](./task_git_collaboration/coursera_git1.png)
+
+[<img src="/task_git_collaboration/coursera_git2.png" width="60%" alt="2 week"/>](./task_git_collaboration/coursera_git2.png)
+
+[<img src="/task_git_collaboration/coursera_git2.1.png" width="60%" alt="2 week"/>](./task_git_collaboration/coursera_git2.1.png)
+
+[<img src="/task_git_collaboration/coursera_git3.png" width="60%" alt="3 week"/>](./task_git_collaboration/coursera_git3.png)
+
+[<img src="/task_git_collaboration/coursera_git4.png" width="60%" alt="4 week"/>](./task_git_collaboration/coursera_git3.png)
 </details>
 
 Before I used some basic Git's commands and know how to work with it locally and remotes, but on this course, I discovered some new topics:
