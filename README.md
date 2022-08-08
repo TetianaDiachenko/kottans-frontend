@@ -32,9 +32,20 @@ Before I used some basic Git's commands and know how to work with it locally and
 	* pull-merge-push workflow
 	* pull requests
 	* tracking(bugs) issues
-	*  a continuous integration (CI) and continuous delivery (CD)
+	* a continuous integration (CI) and continuous delivery (CD)
 
-Then I had some practice in the [learngitbranching.js.org](learngitbranching.js.org). These tasks were very usefull to understanding how the git works.
+Then I had some practice in the [learngitbranching.js.org](https://learngitbranching.js.org). These tasks were very usefull to understanding how the git works.
+
+<details>
+<summary>Screenshots of learngitbranching</summary>
+
+[<img src="/task_git_collaboration/git1.png" width="60%" alt="learngitbranching1screen"/>](./task_git_collaboration/git1.png)
+
+[<img src="/task_git_collaboration/git2.png" width="60%" alt="learngitbranching2screen"/>](./task_git_collaboration/git2.png)
+
+[<img src="/task_git_collaboration/git3.png" width="60%" alt="learngitbranching3screen"/>](./task_git_collaboration/git3.png)
+
+</details>
 
 So in the future I'll be used Git in my projects.
 
