@@ -1,13 +1,23 @@
 # Kottans-frontend
 
-Here I will collect the results of passing the [Frontend course](https://kottans.org/frontend/faq.html) from [Kottans](https://kottans.org/).
+Here I will collect the results of passing the [Frontend course](https://kottans.org/frontend/faq.html) from [Kottans](https://kottans.org/):
+
 
 ____
 
 ## Git Basics and Git Collaboration
 
-I studied the materials of the course [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) on [Coursera](https://www.coursera.org/).
+I studied the materials of the course [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) on [Coursera](https://www.coursera.org/):
 
+
+<details>
+<summary>Screenshorts of Introduction to Git and GitHub</summary>
+![1 week](/task_git_collaboration/coursera_git1.png)
+![2 week](/task_git_collaboration/coursera_git2.png)
+![2 week](/task_git_collaboration/coursera_git2.1.png)
+![3 week](/task_git_collaboration/coursera_git3.png)
+![4 week](/task_git_collaboration/coursera_git3.png)
+</details>
 
 Before I used some basic Git's commands and know how to work with it locally and remotes, but on this course, I discovered some new topics:
 
