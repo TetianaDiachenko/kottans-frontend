@@ -56,7 +56,6 @@ I studied course [Linux Survival](https://linuxsurvival.com). I was very glad, t
 <details>
 <summary>Screenshots of linux course</summary>
 
-
 [<img src="/task_linux_cli/linux1.png" width="60%" alt="linux1">](./task_linux_cli/linux1.png)
 
 
