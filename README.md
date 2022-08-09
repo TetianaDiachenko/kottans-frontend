@@ -49,7 +49,22 @@ Then I had some practice in the [learngitbranching.js.org](https://learngitbranc
 
 So in the future I'll be used Git in my projects.
 
+## Linux CLI, and HTTP
 
+I studied course [Linux Survival](https://linuxsurvival.com). I was very glad, that the linux commands from the first module I used before. So it was enough ease for me. The next modules had new information for me. And I hope, it'll be usefull for me in the future.
+
+<details>
+<summary>Screenshots of linux course</summary>
+
+[<img src="/task_linux_cli/linux1.png" width="60%" alt="linux1/>](./task_linux_cli/linux1.png)
+
+[<img src="/task_linux_cli/linux2.png" width="60%" alt="linux2/>](./task_linux_cli/linux1.png)
+
+[<img src="/task_linux_cli/linux3.png" width="60%" alt="linux3/>](./task_linux_cli/linux1.png)
+
+[<img src="/task_linux_cli/linux4.png" width="60%" alt="linux4/>](./task_linux_cli/linux1.png)
+
+</details>
 
 
 
