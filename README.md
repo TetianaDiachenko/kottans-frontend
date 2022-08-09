@@ -56,13 +56,18 @@ I studied course [Linux Survival](https://linuxsurvival.com). I was very glad, t
 <details>
 <summary>Screenshots of linux course</summary>
 
-[<img src="/task_linux_cli/linux1.png" width="60%" alt="linux1/>](./task_linux_cli/linux1.png)
 
-[<img src="/task_linux_cli/linux2.png" width="60%" alt="linux2/>](./task_linux_cli/linux1.png)
+[<img src="/task_linux_cli/linux1.png" width="60%" alt="linux1">](./task_linux_cli/linux1.png)
 
-[<img src="/task_linux_cli/linux3.png" width="60%" alt="linux3/>](./task_linux_cli/linux1.png)
 
-[<img src="/task_linux_cli/linux4.png" width="60%" alt="linux4/>](./task_linux_cli/linux1.png)
+[<img src="/task_linux_cli/linux2.png" width="60%" alt="linux2">](./task_linux_cli/linux2.png)
+
+
+[<img src="/task_linux_cli/linux3.png" width="60%" alt="linux3">](./task_linux_cli/linux3.png)
+
+
+[<img src="/task_linux_cli/linux4.png" width="60%" alt="linux4">](./task_linux_cli/linux4.png)
+
 
 </details>
 
