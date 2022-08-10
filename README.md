@@ -24,7 +24,7 @@ I studied the materials of the course [Introduction to Git and GitHub](https://w
 [<img src="/task_git_collaboration/coursera_git4.png" width="80%" alt="4 week"/>](./task_git_collaboration/coursera_git3.png)
 </details>
 
-Before I used some basic Git's commands and know how to work with it locally and remotes, but on this course, I discovered some new topics:
+Before I used some basic Git commands and know how to work with it locally and remotely, but on this course, I discovered some new topics:
 
  	* prehistory of creating VCS 
  	* detailed information about the basic Git workflow 
@@ -34,7 +34,7 @@ Before I used some basic Git's commands and know how to work with it locally and
 	* tracking(bugs) issues
 	* a continuous integration (CI) and continuous delivery (CD)
 
-Then I had some practice in the [learngitbranching.js.org](https://learngitbranching.js.org). These tasks were very usefull to understanding how the git works.
+Then I had some practice in the [learngitbranching.js.org](https://learngitbranching.js.org). These tasks were very useful to understanding how the git works.
 
 <details>
 <summary>Screenshots of learngitbranching</summary>
@@ -51,7 +51,7 @@ So in the future I'll be used Git in my projects.
 
 ## Linux CLI, and HTTP
 
-I studied course [Linux Survival](https://linuxsurvival.com). I was very glad, that the linux commands from the first module I used before. So it was enough ease for me. The next modules had new information for me. And I hope, it'll be usefull for me in the future.
+I studied course [Linux Survival](https://linuxsurvival.com). I was very glad, that the linux commands from the first module I used before. So it was enough ease. The next modules had new information for me. And I hope, it'll be useful for my work in the future.
 
 <details>
 <summary>Screenshots of linux course</summary>
