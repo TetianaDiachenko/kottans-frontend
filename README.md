@@ -70,5 +70,18 @@ I studied course [Linux Survival](https://linuxsurvival.com). I was very glad, t
 
 </details>
 
+I read these articles:
 
+[HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 1](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 
+[HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
+
+The new information was about:
+
+* some HTTP Request Verbs (trace, options)
+* HTTP Headers 
+* TLS or SSL (Transport Layer Security or Secure Sockets Layer) in HTTPS
+* HTTP Authentication
+* HTTP Caching
+
+This was very important information. At a minimum, I will definitely use HTTP requests in my future work. And I hope the rest of the information will be useful for me as well.
