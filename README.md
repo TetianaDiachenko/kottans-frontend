@@ -13,15 +13,15 @@ I studied the materials of the course [Introduction to Git and GitHub](https://w
 <details>
 <summary>Screenshots of Introduction to Git and GitHub</summary>
 
-[<img src="/task_git_collaboration/coursera_git1.png" width="60%" alt="1 week"/>](./task_git_collaboration/coursera_git1.png)
+[<img src="/task_git_collaboration/coursera_git1.png" width="80%" alt="1 week"/>](./task_git_collaboration/coursera_git1.png)
 
-[<img src="/task_git_collaboration/coursera_git2.png" width="60%" alt="2 week"/>](./task_git_collaboration/coursera_git2.png)
+[<img src="/task_git_collaboration/coursera_git2.png" width="80%" alt="2 week"/>](./task_git_collaboration/coursera_git2.png)
 
-[<img src="/task_git_collaboration/coursera_git2.1.png" width="60%" alt="2 week"/>](./task_git_collaboration/coursera_git2.1.png)
+[<img src="/task_git_collaboration/coursera_git2.1.png" width="80%" alt="2 week"/>](./task_git_collaboration/coursera_git2.1.png)
 
-[<img src="/task_git_collaboration/coursera_git3.png" width="60%" alt="3 week"/>](./task_git_collaboration/coursera_git3.png)
+[<img src="/task_git_collaboration/coursera_git3.png" width="80%" alt="3 week"/>](./task_git_collaboration/coursera_git3.png)
 
-[<img src="/task_git_collaboration/coursera_git4.png" width="60%" alt="4 week"/>](./task_git_collaboration/coursera_git3.png)
+[<img src="/task_git_collaboration/coursera_git4.png" width="80%" alt="4 week"/>](./task_git_collaboration/coursera_git3.png)
 </details>
 
 Before I used some basic Git's commands and know how to work with it locally and remotes, but on this course, I discovered some new topics:
@@ -39,11 +39,11 @@ Then I had some practice in the [learngitbranching.js.org](https://learngitbranc
 <details>
 <summary>Screenshots of learngitbranching</summary>
 
-[<img src="/task_git_collaboration/git1.png" width="60%" alt="learngitbranching1screen"/>](./task_git_collaboration/git1.png)
+[<img src="/task_git_collaboration/git1.png" width="80%" alt="learngitbranching1screen"/>](./task_git_collaboration/git1.png)
 
-[<img src="/task_git_collaboration/git2.png" width="60%" alt="learngitbranching2screen"/>](./task_git_collaboration/git2.png)
+[<img src="/task_git_collaboration/git2.png" width="80%" alt="learngitbranching2screen"/>](./task_git_collaboration/git2.png)
 
-[<img src="/task_git_collaboration/git3.png" width="60%" alt="learngitbranching3screen"/>](./task_git_collaboration/git3.png)
+[<img src="/task_git_collaboration/git3.png" width="80%" alt="learngitbranching3screen"/>](./task_git_collaboration/git3.png)
 
 </details>
 
@@ -56,16 +56,16 @@ I studied course [Linux Survival](https://linuxsurvival.com). I was very glad, t
 <details>
 <summary>Screenshots of linux course</summary>
 
-[<img src="/task_linux_cli/linux1.png" width="60%" alt="linux1">](./task_linux_cli/linux1.png)
+[<img src="/task_linux_cli/linux1.png" width="80%" alt="linux1">](./task_linux_cli/linux1.png)
 
 
-[<img src="/task_linux_cli/linux2.png" width="60%" alt="linux2">](./task_linux_cli/linux2.png)
+[<img src="/task_linux_cli/linux2.png" width="80%" alt="linux2">](./task_linux_cli/linux2.png)
 
 
-[<img src="/task_linux_cli/linux3.png" width="60%" alt="linux3">](./task_linux_cli/linux3.png)
+[<img src="/task_linux_cli/linux3.png" width="80%" alt="linux3">](./task_linux_cli/linux3.png)
 
 
-[<img src="/task_linux_cli/linux4.png" width="60%" alt="linux4">](./task_linux_cli/linux4.png)
+[<img src="/task_linux_cli/linux4.png" width="80%" alt="linux4">](./task_linux_cli/linux4.png)
 
 
 </details>
