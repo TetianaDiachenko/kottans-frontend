@@ -26,13 +26,12 @@ I studied the materials of the course [Introduction to Git and GitHub](https://w
 
 Before I used some basic Git commands and know how to work with it locally and remotely, but on this course, I discovered some new topics:
 
- 	* prehistory of creating VCS 
- 	* detailed information about the basic Git workflow 
- 	(when in each repository we have a Git directory, a working tree, and a staging area) 	
-	* pull-merge-push workflow
-	* pull requests
-	* tracking(bugs) issues
-	* a continuous integration (CI) and continuous delivery (CD)
+* prehistory of creating VCS 
+* detailed information about the basic Git workflow (when in each repository we have a Git directory, a working tree, and a staging area) 	
+* pull-merge-push workflow
+* pull requests
+* tracking(bugs) issues
+* a continuous integration (CI) and continuous delivery (CD)
 
 Then I had some practice in the [learngitbranching.js.org](https://learngitbranching.js.org). These tasks were very useful to understanding how the git works.
 
