@@ -85,3 +85,22 @@ The new information was about:
 * HTTP Caching
 
 This was very important information. At a minimum, I will definitely use HTTP requests in my future work. And I hope the rest of the information will be useful for me as well.
+
+## Intro to HTML and CSS
+
+I studied the materials of the course [Intro to HTML & CSS](https://www.coursera.org/learn/html-css-javascript-for-web-developers) (1,2 weeks) on [Coursera](https://www.coursera.org/):
+
+<details>
+<summary>Screenshots of Intro to HTML & CSS</summary>
+
+[<img src="/task_html_css_intro/coursera_html1.png" width="80%" alt="coursera_html1"/>](./task_html_css_intro/coursera_css2.png)
+
+[<img src="/task_html_css_intro/coursera_css2.png" width="80%" alt="coursera_css2"/>](./task_html_css_intro/coursera_css2.png)
+
+</details>
+
+I used HTML, CSS before in my work, that's why almost everything was common for me. But there are couple new sings, that I got to know:
+
+* HTML 5 appeared as a result of joint work of W3C and WHATWG.
+* useful sources about [The W3C HTML5 standard](https://www.w3.org/TR/2011/WD-html5-20110405/) and [Browser Statistics](https://www.w3schools.com/browsers/)
+
