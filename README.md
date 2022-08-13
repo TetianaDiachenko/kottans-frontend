@@ -123,6 +123,15 @@ I read an article [Responsive web design basics](https://web.dev/i18n/en/respons
 
 I watched videos about [FLEXBOX](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x). I used flexbox before and I like this technology. From these lessons, I discovered some detailed information about the flex property, which consists of flex-grow, flex-shrink, and flex-basis (for ex., flex: 0, 1, auto;). I didn't use it before, but I want to do it in my future projects.
 
+I had practice with flexbox commands plaing in a cool game [Flexbox Froggy](http://flexboxfroggy.com/#uk)
+
+<details>
+<summary>Screenshots of games(Flexbox Froggy and Grid Garden)</summary>
+
+[<img src="/task_responsive_web_design/flexbox_grogs.png" width="80%" alt="flexbox_grogs"/>](./task_html_css_intro/coursera_css2.png)
+
+</details>
+
 
 
 
