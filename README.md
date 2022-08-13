@@ -128,7 +128,7 @@ I had practice with flexbox commands plaing in a cool game [Flexbox Froggy](http
 <details>
 <summary>Screenshots of games(Flexbox Froggy and Grid Garden)</summary>
 
-[<img src="/task_responsive_web_design/flexbox_grogs.png" width="80%" alt="flexbox_grogs"/>](./task_html_css_intro/coursera_css2.png)
+[<img src="/task_responsive_web_design/flexbox_frogs.png" width="80%" alt="flexbox_frogs"/>](./task_responsive_web_design/flexbox_frogs.png)
 
 </details>
 
