@@ -112,3 +112,17 @@ I practiced [HTML](https://www.codecademy.com/learn/learn-html) & [CSS](https://
 [<img src="/task_html_css_intro/codeacademy_html_css.png" width="80%" alt="codeacademy_html_css"/>](./task_html_css_intro/codeacademy_html_css.png)
 
 </details>
+
+## Responsive Web Design
+
+I read an article [Responsive web design basics](https://web.dev/i18n/en/responsive-web-design-basics/). I have some basic knowledge about responsive web design. Nevertheless, there was new information for me:
+
+* Multiple-column Layout (Multicol), which uses column-width property for creating responsive numbers of columns. 
+
+* Optimization text for reading (70 to 80 characters per line = about 8 to 10 words in English for mobil and 550px for larger screens)
+
+I watched videos about [FLEXBOX](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x). I used flexbox before and I like this technology. From these lessons, I discovered some detailed information about the flex property, which consists of flex-grow, flex-shrink, and flex-basis (for ex., flex: 0, 1, auto;). I didn't use it before, but I want to do it in my future projects.
+
+
+
+
