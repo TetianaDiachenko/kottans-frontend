@@ -123,12 +123,16 @@ I read an article [Responsive web design basics](https://web.dev/i18n/en/respons
 
 I watched videos about [FLEXBOX](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x). I used flexbox before and I like this technology. From these lessons, I discovered some detailed information about the flex property, which consists of flex-grow, flex-shrink, and flex-basis (for ex., flex: 0, 1, auto;). I didn't use it before, but I want to do it in my future projects.
 
-I had practice with flexbox commands plaing in a cool game [Flexbox Froggy](http://flexboxfroggy.com/#uk)
+And I watched videos about [Grid](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm). I only once used this technology. So it was useful for me to mention all the possibilities of the grid.
+
+I had a practice with flexbox and git commands playing in cool games [Flexbox Froggy](http://flexboxfroggy.com/#uk) and [Grid Garden](http://cssgridgarden.com/). Of course, I'll be use these technologies in my future projects.
 
 <details>
 <summary>Screenshots of games(Flexbox Froggy and Grid Garden)</summary>
 
 [<img src="/task_responsive_web_design/flexbox_frogs.png" width="80%" alt="flexbox_frogs"/>](./task_responsive_web_design/flexbox_frogs.png)
+
+[<img src="/task_responsive_web_design/grid_garden.png" width="80%" alt="grid_garden"/>](./task_responsive_web_design/grid_garden.png)
 
 </details>
 
