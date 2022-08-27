@@ -138,7 +138,7 @@ I had a practice with flexbox and git commands playing in cool games [Flexbox Fr
 
 ## HTML & CSS Practice
 
-I made popup by using only HTML and CSS. It was new experience using checkbox for buttons, which opens or closes content. 
+I made popup by using only HTML and CSS. It was new experience using checkbox for buttons, which open or close content. 
 
 It's my result:
 
@@ -146,6 +146,21 @@ It's my result:
 
 [Code base](https://github.com/TetianaDiachenko/Popup)
 
+## JS Basics
 
+I listened the [Introduction to Javascript](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/4) on [Coursera](https://www.coursera.org/). It was helpful, but this course was created in 2015 and there were many changes from that year that were compiled into ES6. 
+
+But the practice on [Freecodecamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) gave a basic idea of modern Javascript.
+
+
+<details>
+<summary>Screenshots of JS Basics</summary>
+
+[<img src="/task_js_basics/js_coursera.png" width="80%" alt="js_coursera"/>](./task_js_basics/js_coursera.png)
+
+[<img src="/task_js_basics/basic_js.png" width="80%" alt="basic_js"/>](./task_js_basics/basic_js.png)
+
+</details>
+ 
 
 
