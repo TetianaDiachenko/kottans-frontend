@@ -136,6 +136,16 @@ I had a practice with flexbox and git commands playing in cool games [Flexbox Fr
 
 </details>
 
+## HTML & CSS Practice
+
+I made popup by using only HTML and CSS. It was new experience using checkbox for buttons, which opens or closes content. 
+
+It's my result:
+
+[Demo](https://tetianadiachenko.github.io/Popup/)
+
+[Code base](https://github.com/TetianaDiachenko/Popup)
+
 
 
 
