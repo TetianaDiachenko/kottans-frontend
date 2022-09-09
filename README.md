@@ -160,6 +160,16 @@ But the practice on [Freecodecamp](https://www.freecodecamp.org/learn/javascript
 
 [<img src="/task_js_basics/basic_js.png" width="80%" alt="basic_js"/>](./task_js_basics/basic_js.png)
 
+[<img src="/task_js_basics/freecode_es6.png" width="80%" alt="freecode_es6"/>](./task_js_basics/freecode_es6.png)
+
+[<img src="/task_js_basics/bds_js.png" width="80%" alt="bds_js"/>](./task_js_basics/bds_js.png)
+
+[<img src="/task_js_basics/algo_js.png" width="80%" alt="algo_js"/>](./task_js_basics/algo_js.png)
+
+[<img src="/task_js_basics/func_js.png" width="80%" alt="func_js"/>](./task_js_basics/func_js.png)
+
+[<img src="/task_js_basics/int_algo_js.png" width="80%" alt="int_algo_js"/>](./task_js_basics/int_algo_js.png)
+
 </details>
  
 
